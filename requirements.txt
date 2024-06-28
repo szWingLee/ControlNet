@@ -1,0 +1,34 @@
+addict
+albumentations
+basicsr
+cityscapesscripts
+einops
+gradio
+lmdb
+matplotlib
+# mc
+numpy
+omegaconf
+onnx
+packaging
+parrots
+Pillow
+prettytable
+pytorch_lightning
+PyYAML
+regex
+safetensors
+scipy
+# skimage
+scikit-image
+tensorboardX
+tifffile
+timm
+torch
+torch_tb_profiler
+torchvision
+tqdm
+transformers
+turbojpeg
+xformers
+yapf
